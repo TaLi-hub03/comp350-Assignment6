@@ -1,0 +1,7 @@
+Producer-Consumer Simulation Results
+------------------------------------
+Producers: 4
+Consumers: 3
+Total items produced: 20
+Total items consumed: 20
+Simulation completed successfully.
